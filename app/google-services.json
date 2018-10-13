@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "117972606586",
+    "firebase_url": "https://checkco-3e386.firebaseio.com",
+    "project_id": "checkco-3e386",
+    "storage_bucket": "checkco-3e386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117972606586:android:53522c549c169d62",
+        "android_client_info": {
+          "package_name": "com.darongzzang.www.checkco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117972606586-fp7kmhkm3tphmdi1754tr7c48n7l91f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-euLoAOPiNiPEUQqza6NuCefaZ_iwE5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
